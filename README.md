@@ -8,6 +8,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -30,13 +31,16 @@
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
