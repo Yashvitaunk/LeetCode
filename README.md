@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -43,4 +44,12 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
