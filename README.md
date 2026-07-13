@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/Yashvitaunk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yashvitaunk/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Yashvitaunk/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
