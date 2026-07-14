@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Yashvitaunk/LeetCode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0525-contiguous-array) |
@@ -83,4 +84,8 @@
 | [0560-subarray-sum-equals-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Yashvitaunk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Yashvitaunk/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
