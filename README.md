@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/Yashvitaunk/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Yashvitaunk/LeetCode/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0525-contiguous-array) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Yashvitaunk/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
