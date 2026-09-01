@@ -1,54 +1,67 @@
 import java.util.*;
 
 class Pair {
-    int first;
-    String second;
+    int first;    // frequency
+    int second;   // element
 
-    Pair(int f, String s) {
+    Pair(int f, int s) {
         first = f;
         second = s;
     }
 }
 
 class Solution {
+
     public int[] topKFrequent(int[] nums, int k) {
 
+        // Step 1: Count frequency
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        // Count frequency
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        // Min heap on first, Min on second
+        // Step 2: Min Heap
+        // First: Min frequency
+        // Second: Min element
         PriorityQueue<Pair> pq = new PriorityQueue<>(
             (a, b) -> {
-                if (a.first != b.first)
+                if (a.first != b.first) {
                     return a.first - b.first;
+                }
 
-                return a.second.compareTo(b.second);
+                return a.second - b.second;
             }
         );
 
-        // Add pairs to heap
+        // Step 3: Traverse the frequency map
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
 
-            int frequency = entry.getValue();
             int element = entry.getKey();
+            int frequency = entry.getValue();
 
-            pq.add(new Pair(frequency, String.valueOf(element)));
+            Pair curr = new Pair(frequency, element);
 
-            // Keep only k elements
-            if (pq.size() > k) {
+            // Heap has less than k elements
+            if (pq.size() < k) {
+                pq.add(curr);
+            }
+
+            // Heap is full
+            // Add curr only if its frequency is greater
+            // than the smallest frequency in the heap
+            else if (curr.first > pq.peek().first) {
                 pq.poll();
+                pq.add(curr);
             }
         }
 
-        // Create answer
+        // Step 4: Create answer
         int[] ans = new int[k];
 
+        // Step 5: Get elements from heap
         for (int i = 0; i < k; i++) {
-            ans[i] = Integer.parseInt(pq.poll().second);
+            ans[i] = pq.poll().second;
         }
 
         return ans;
