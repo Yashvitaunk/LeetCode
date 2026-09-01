@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Yashvitaunk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yashvitaunk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0409-longest-palindrome) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yashvitaunk/LeetCode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sweep Line
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Yashvitaunk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yashvitaunk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashvitaunk/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -156,4 +161,16 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
