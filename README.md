@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +148,7 @@
 | [0020-valid-parentheses](https://github.com/Yashvitaunk/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yashvitaunk/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Yashvitaunk/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Yashvitaunk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yashvitaunk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0409-longest-palindrome) |
