@@ -40,6 +40,7 @@
 | [0234-palindrome-linked-list](https://github.com/Yashvitaunk/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Yashvitaunk/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Yashvitaunk/LeetCode/tree/master/0392-is-subsequence) |
 | [0986-interval-list-intersections](https://github.com/Yashvitaunk/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@
 | [0022-generate-parentheses](https://github.com/Yashvitaunk/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Yashvitaunk/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yashvitaunk/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -153,6 +155,7 @@
 | [0125-valid-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Yashvitaunk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yashvitaunk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Yashvitaunk/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Yashvitaunk/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashvitaunk/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
