@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/Yashvitaunk/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yashvitaunk/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Yashvitaunk/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -45,6 +46,7 @@
 | [0283-move-zeroes](https://github.com/Yashvitaunk/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Yashvitaunk/LeetCode/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/Yashvitaunk/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Yashvitaunk/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sweep Line
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashvitaunk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0409-longest-palindrome) |
+| [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,4 +224,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yashvitaunk/LeetCode/tree/master/0022-generate-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
