@@ -20,6 +20,7 @@
 | [0503-next-greater-element-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Yashvitaunk/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Yashvitaunk/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -46,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/Yashvitaunk/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Yashvitaunk/LeetCode/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/Yashvitaunk/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -55,6 +57,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Yashvitaunk/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -148,6 +151,7 @@
 | [0056-merge-intervals](https://github.com/Yashvitaunk/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashvitaunk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Yashvitaunk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Yashvitaunk/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sweep Line
@@ -188,6 +192,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashvitaunk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Yashvitaunk/LeetCode/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Yashvitaunk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
