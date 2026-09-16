@@ -35,6 +35,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Yashvitaunk/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yashvitaunk/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1695-maximum-erasure-value](https://github.com/Yashvitaunk/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Yashvitaunk/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@
 | [0692-top-k-frequent-words](https://github.com/Yashvitaunk/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashvitaunk/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1695-maximum-erasure-value](https://github.com/Yashvitaunk/LeetCode/tree/master/1695-maximum-erasure-value) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Yashvitaunk/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashvitaunk/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Yashvitaunk/LeetCode/tree/master/1695-maximum-erasure-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
