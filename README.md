@@ -177,6 +177,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashvitaunk/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashvitaunk/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashvitaunk/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Yashvitaunk/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Yashvitaunk/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yashvitaunk/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
