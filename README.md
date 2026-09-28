@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Yashvitaunk/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Yashvitaunk/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Yashvitaunk/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Yashvitaunk/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Yashvitaunk/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashvitaunk/LeetCode/tree/master/0713-subarray-product-less-than-k) |
